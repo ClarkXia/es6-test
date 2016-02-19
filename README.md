@@ -1,4 +1,4 @@
-# es6-test
+# ES2015
 ES2015测试环境，集成基于gulp的bable转化和livereload
 
 getting started
