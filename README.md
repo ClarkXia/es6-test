@@ -12,8 +12,8 @@ $ npm install
 $ gulp start
 ```
 
-scripts目录 ------  es6文件
+scripts目录 ------  es6文件（开发目录）
 
-temp/scripts目录 -------  es5文件
+temp/scripts目录 -------  es5文件（自动生成脚本目录）
 
 ES2015参考语法：http://es6.ruanyifeng.com/
